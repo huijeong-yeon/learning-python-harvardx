@@ -1,8 +1,8 @@
-# 🐍 CS50's Introduction to Programming with Python
+# CS50's Introduction to Programming with Python
 
 This repository contains my solutions to selected exercises from CS50P, HarvardX's Introduction to Programming with Python.
 
-## 📚 Course Structure
+## Course Structure
 
 | Week | Topic                       |
 |------|-----------------------------|
