@@ -6,7 +6,7 @@ This repository contains coursework and problem set solutions from HarvardX's Pr
 
 ### 1. CS50's Introduction to Programming with Python
 
-### 2. Introduction to Data Science with Python
+### 2. Introduction to Data Science with Python (CS109x)
 
 
 ---
